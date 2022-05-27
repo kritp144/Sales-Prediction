@@ -52,11 +52,15 @@ Root MeanSquared Error (RMSE): This Test will show the same values as the target
 VISUALIZATION:
 
 histogram
+
 BoxPlot
+
 barchart
+
 heatmap
 
 ## Results
+
 We can see that the sale of Low Fat products are very competitive with Regular fat products. 
 ### 
 
@@ -87,7 +91,6 @@ R2 Score = 0.5947099753159972, MSE Test = 1118185.973077762, RMSE Test = 1057.44
 
 The model is underfit as the R2 Scores are very low indicating that the model has a high bias. This may be due to a lack of correlation in the features and target as shown by the heat map below
 
-![2C04B766-B920-42F9-9033-6D4BF94DE750](https://user-images.githubusercontent.com/103543062/170680844-6f0a2b04-fe32-4e34-8ee2-48d4940af733.png)
 
 
 ## Recommendations:
